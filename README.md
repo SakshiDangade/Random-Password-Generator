@@ -25,12 +25,6 @@ This is a simple web-based **Random Password Generator** built using HTML, CSS, 
 
 ---
 
-## 📸 Preview
-
-![App Screenshot](images/screenshot.png) <!-- Replace with your actual screenshot file path if available -->
-
----
-
 ## 🔧 How It Works
 
 1. Click on **Generate Password** button.
